@@ -1,3 +1,9 @@
-^Hozo\.Rproj$
+^\\.Rhistory$
+^\\.gitignore$
+^\\.Rproj\\.user$
+^\\.git$
+^\\.Rcheck$
+^Hozo\\.Rcheck$
+^Hozo\\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$

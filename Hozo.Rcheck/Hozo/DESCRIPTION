@@ -1,18 +1,18 @@
-Type: Package
 Package: Hozo
+Type: Package
 Title: Estimating Statistical Parameters from Limited Data
 Version: 0.1.0
 Authors@R: 
     person("Sepehr", "Khosravi", , "khosravisepehr@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-5372-0787"))
+Author: Sepehr Khosravi
 Maintainer: Sepehr Khosravi <khosravisepehr@gmail.com>
-Description: The Hozo package provides a function to estimate the mean,
-    standard deviation, and variance of a sample based on limited data,
-    such as the median, minimum, maximum, and sample size.
+Description: The Hozo package provides a function to estimate the mean, standard deviation, and variance of a sample based on limited data, such as the median, minimum, maximum, and sample size.
 License: MIT + file LICENSE
-Depends: 
-    R (>= 3.5.0)
 Encoding: UTF-8
-LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Packaged: 2024-09-17 06:10:18 UTC; lenovo
+Built: R 4.2.1; ; 2024-09-17 06:30:27 UTC; windows

@@ -1,0 +1,8 @@
+Hmm ... looks like a package
+Converting parsed Rd's to LaTeX 
+Creating pdf output from LaTeX ...
+Warning in system(paste(shQuote(texi2dvi), if (quiet) "--quiet" else "",  :
+  running command '"C:\PROGRA~1\MIKTEX~1.9\miktex\bin\x64\texify.exe"  --pdf "Rd2.tex" --max-iterations=20 -I "C:/PROGRA~1/R/R-42~1.1/share/texmf/tex/latex" -I "C:/PROGRA~1/R/R-42~1.1/share/texmf/bibtex/bst"' had status 1
+Saving output to 'Hozo-manual.pdf' ...
+Done
+You may want to clean up by 'rm -Rf C:/Users/lenovo/AppData/Local/Temp/RtmpO0Pvzn/Rd2pdff6c60051b47'
